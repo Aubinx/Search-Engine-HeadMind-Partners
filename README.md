@@ -1,7 +1,9 @@
 # EI_group4
 
 ## notre moteur de recherche : 
-fichier : Search_engine_final.ipynb
+pour l'executer, il faut placer le dossier dezippé datascience.stackexchange.com à la racine du projet. /
+le fichier principale : Search_engine_final.ipynb /
+la fonction de recherche d'appelle CobraSearch, une cellule pour avoir une interface graphique tkinter est disponible vers la fin du notebook
 
 
 ## Idées pour le moteur de recherche :
